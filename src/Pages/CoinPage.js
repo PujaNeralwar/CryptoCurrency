@@ -98,7 +98,7 @@ const CoinPage = () => {
           height="200"
           style={{ marginBottom: 20 }}
         />
-        <Typography variant="h1" className={classes.heading}>
+        <Typography variant="h2" className={classes.heading}>
         {coin?.name}
         </Typography>
         
